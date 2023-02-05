@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+# x = 
+# line 3 is where the error was encountered.
